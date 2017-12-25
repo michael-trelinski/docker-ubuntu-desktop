@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM armv7/armhf-ubuntu:16.04
 
 ENV DEBIAN_FRONTEND noninteractive
 ENV USER root
